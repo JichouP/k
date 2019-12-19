@@ -139,13 +139,13 @@ k () {
   # Colors
   # ----------------------------------------------------------------------------
   # default colors
-  K_COLOR_DI="0;34"  # di:directory
+  K_COLOR_DI="0;94"  # di:directory
   K_COLOR_LN="0;35"  # ln:symlink
   K_COLOR_SO="0;32"  # so:socket
   K_COLOR_PI="0;33"  # pi:pipe
   K_COLOR_EX="0;31"  # ex:executable
-  K_COLOR_BD="34;46" # bd:block special
-  K_COLOR_CD="34;43" # cd:character special
+  K_COLOR_BD="94;46" # bd:block special
+  K_COLOR_CD="94;43" # cd:character special
   K_COLOR_SU="30;41" # su:executable with setuid bit set
   K_COLOR_SG="30;46" # sg:executable with setgid bit set
   K_COLOR_TW="30;42" # tw:directory writable to others, with sticky bit
